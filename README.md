@@ -1,6 +1,6 @@
 # Lenovo IdeaPad Conservation Mode (Linux)  
  
-This is a simple Bash script to allow you to quickly enable, disable or check "Conservation Mode"'s status on Linux.  
+This is a simple Bash script to allow you to quickly enable, disable or check "Conservation Mode"'s status on Linux.  Conservation mode limits battery charge to 60%.  
   
 ## Installation
 1. Download `cons.sh` from this repo;
